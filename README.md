@@ -1,2 +1,2 @@
-# Bugtags-Feedback-Demo
+# Bugtags Feedback Demo
 Bugtags powerful feedback demo
